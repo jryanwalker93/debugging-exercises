@@ -1,3 +1,1 @@
-$(documnt).ready(function {
-	alert("congratulations, you fixed it!');
-});
+$(document).ready(() => alert("congratulations, you fixed it!"));
